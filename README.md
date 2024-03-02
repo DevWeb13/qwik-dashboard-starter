@@ -1,3 +1,8 @@
+Qwik Course - Starter
+This is the starter template for the Qwik Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://www.learn-qwik.com/learn/) on the Qwik Website.
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
